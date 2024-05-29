@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1714319380 source:e:\users\desktop\cpp_mini_project\main.cpp
+	<iostream>
+	<iomanip>
+	"class_motor.h"
+	"class_slot.h"
+	"coinSlot.h"
+	"class_clavier.h"
+	"class_dropcheked.h"
+	"class_automat.h"
+
+1714318332 e:\users\desktop\cpp_mini_project\class_motor.h
+
+1714251735 e:\users\desktop\cpp_mini_project\class_automat.h
+	<string>
+	<vector>
+
+1714227291 e:\users\desktop\cpp_mini_project\class_slot.h
+	<string>
+
+1714318991 e:\users\desktop\cpp_mini_project\coinslot.h
+
+1714314251 e:\users\desktop\cpp_mini_project\class_clavier.h
+
+1713721366 e:\users\desktop\cpp_mini_project\class_dropcheked.h
+	<cstdlib>
+	<ctime>
+
